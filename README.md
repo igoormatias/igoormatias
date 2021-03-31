@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**igoormatias/igoormatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Igor Matias
 
-Here are some ideas to get you started:
+**Front-end Developer** [@Datsystems](https://github.com/datsystems).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/igor-matias-b29b94129/)
+- 💻 I have been a technology enthusiast since I was a child, and I found myself in the future in the IT. Today I'm focused on the React JS Ecosystem
+- ⚡ Interested in _Next.js_, _React Native_,_React JS_,_Typescript_
+- 🔭 I’m currently working on SIG2000
+
+
+
+> "Improve your skills every damn day and never stop learning"
+
+
+
+
