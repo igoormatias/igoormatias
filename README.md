@@ -2,7 +2,7 @@
 
 # 🚀 Igor Matias
 
-**Front-end Developer** [@Datsystems](https://github.com/datsystems).
+**Front-end Developer** Compasso Uol, [@Datsystems](https://github.com/datsystems).
 
 <div>
   <a href="https://github.com/igoormatias">
@@ -29,7 +29,7 @@
 
 - 💻 I have been a technology enthusiast since I was a child, and I found myself in the future in the IT.
 - ⚡ Interested in _Next.js_, _React Native_,_React JS_,_Typescript_
-- 🔭 I’m currently working at SIG2000
+- 🔭 I’m currently working at Compasso Uol
 
 
 
