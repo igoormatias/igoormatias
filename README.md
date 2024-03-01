@@ -2,7 +2,7 @@
 
 # 🚀 Igor Matias
 
-**Front-end Developer** Compasso Uol, [@Datsystems](https://github.com/datsystems).
+**Fullstack Developer**.
 
 <div>
   <a href="https://github.com/igoormatias">
