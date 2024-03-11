@@ -29,7 +29,6 @@
 
 - 💻 I have been a technology enthusiast since I was a child, and I found myself in the future in the IT.
 - ⚡ Interested in _Next.js_, _React Native_,_React JS_,_Typescript_
-- 🔭 I’m currently working at Compasso Uol
 
 
 
